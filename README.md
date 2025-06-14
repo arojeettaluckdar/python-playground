@@ -13,11 +13,7 @@ This includes everything from small practice problems to full mini-projects.
 
 ---
 
-## 🎯 Goal
 
-> To build a strong foundation in Python and stay consistent by coding every day.
-
----
 
 ## 📄 Documentation
 
@@ -34,10 +30,5 @@ For explanations and purpose of each script, refer to the docs:
 
 ---
 
-## 📝 Notes
-
-Check out my daily learning progress and write-ups on [Hashnode](https://qspiders.hashnode.space).
-
----
 
 Feel free to explore, follow along, or star the repo if you're learning Python too!
